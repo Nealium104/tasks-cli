@@ -1,4 +1,4 @@
-Task Tracker
+# Task Tracker
 Build a cli app to track your tasks and manage your todo list.
 
 Task tracker is a project used to track and manage your tasks. In this task, you will build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. This project will help you practice your programming skills, including working with the filesystem, handling user inputs, and building a simple CLI application.
@@ -90,3 +90,6 @@ Finalizing the Project
 By the end of this project, you will have developed a practical tool that can help you or others manage tasks efficiently. This project lays a solid foundation for more advanced programming projects and real-world applications.
 
 Happy coding!
+
+# How to make it work
+Make sure you have npm installed on your machine, then make it runnable by running `npm link`
