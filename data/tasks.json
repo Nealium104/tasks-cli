@@ -1,0 +1,37 @@
+{
+    "task1": {
+      "id": "t1",
+      "description": "Write documentation for API",
+      "status": "in-progress",
+      "createdAt": "2025-01-01T09:00:00Z",
+      "updatedAt": "2025-01-01T10:30:00Z"
+    },
+    "task2": {
+      "id": "t2",
+      "description": "Debug login feature",
+      "status": "todo",
+      "createdAt": "2025-01-01T09:15:00Z",
+      "updatedAt": "2025-01-01T09:15:00Z"
+    },
+    "task3": {
+      "id": "t3",
+      "description": "Update user profile page",
+      "status": "done",
+      "createdAt": "2025-01-01T08:00:00Z",
+      "updatedAt": "2025-01-01T11:45:00Z"
+    },
+    "task4": {
+      "id": "t4",
+      "description": "Review pull requests",
+      "status": "todo",
+      "createdAt": "2025-01-01T09:30:00Z",
+      "updatedAt": "2025-01-01T09:30:00Z"
+    },
+    "task5": {
+      "id": "t5",
+      "description": "Set up testing environment",
+      "status": "in-progress",
+      "createdAt": "2025-01-01T08:30:00Z",
+      "updatedAt": "2025-01-01T10:15:00Z"
+    }
+  }
